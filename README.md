@@ -1,7 +1,7 @@
 oauth1-forpy3
 =============
 
-Makes using oAuth v1 simple
+Makes using oAuth v1 simple<br>
 
 Simple instructions:
   1) Create an instance of the Client object. You must have:
