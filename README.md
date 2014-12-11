@@ -6,7 +6,8 @@ Simple instructions:
   1. Create an instance of the Client object. You must have:
       * a consumer key and secret, received from the site you're accessing
       * a user agent
-  2. 1. If you already have an access key and secret:
+  2. 
+     1. If you already have an access key and secret:
       * Client.set_access_token(your key,your secret)
      2. Else 
       * call Client.set_access_token() and it will use the consumer key and secret to acquire them
